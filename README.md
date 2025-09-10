@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mambacita0224
-- 👀 I’m interested in Artificial intelligence and Human Computer Interaction
-- 🌱 I’m currently learning Data Science and Technology in HKUST
-- 💞️ I’m looking to collaborate on projects that provide undergraduate students an opportunity to enrich themselves
-- 📫 How to reach me: yzengay@connect.ust.hk
+- 👀 I’m interested in Artificial intelligence, Machine Learning and Software Engineering.
+- 🌱 I’m currently a Mater of Computational Data Science student in Carnegie Mellon University. I finished my bachelor degree in HKUST, majoring is Data Science and Technology and Computer Science.
+- 💞️ I’m looking for 2026 summer internship in US, focusing on MLE and SDE. Feel out to reach out to me!
+- 📫 How to reach me: yuhangze@andrew.cmu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sports and music
+- ⚡ Fun fact: Basketball, soccer and music
 
 <!---
 Mambacita0224/Mambacita0224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
