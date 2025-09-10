@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mambacita0224
+- 👋 Hi, I’m Yuhang(Andy) Zeng
 - 👀 I’m interested in Artificial intelligence, Machine Learning and Software Engineering.
 - 🌱 I’m currently a Mater of Computational Data Science student in Carnegie Mellon University. I finished my bachelor degree in HKUST, majoring is Data Science and Technology and Computer Science.
 - 💞️ I’m looking for 2026 summer internship in US, focusing on MLE and SDE. Feel out to reach out to me!
